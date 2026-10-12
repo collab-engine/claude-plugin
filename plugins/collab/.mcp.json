@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "collab": {
+      "type": "http",
+      "url": "https://mcp.collabengine.org/mcp"
+    }
+  }
+}

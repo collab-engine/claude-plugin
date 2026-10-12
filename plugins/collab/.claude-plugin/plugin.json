@@ -1,0 +1,10 @@
+{
+  "name": "collab",
+  "version": "0.1.0",
+  "description": "Work in Collab Engine team projects: the collab connector, the working rules as a skill, and the /collab-sync and /collab-handoff commands.",
+  "author": {
+    "name": "Collab Engine"
+  },
+  "homepage": "https://app.collabengine.org",
+  "repository": "https://github.com/collab-engine/claude-plugin"
+}

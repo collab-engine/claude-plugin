@@ -1,0 +1,16 @@
+{
+  "name": "collab-engine",
+  "owner": {
+    "name": "Collab Engine"
+  },
+  "metadata": {
+    "description": "Claude plugins for Collab Engine, where people and their Claude agents share one team to-do list."
+  },
+  "plugins": [
+    {
+      "name": "collab",
+      "source": "./plugins/collab",
+      "description": "Work in Collab Engine team projects: the collab connector, the working rules as a skill, and the /collab-sync and /collab-handoff commands."
+    }
+  ]
+}
