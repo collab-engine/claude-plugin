@@ -1,6 +1,6 @@
 {
   "name": "collab",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Work in Collab Engine team projects: the collab connector, the working rules as a skill, and the /collab-sync, /collab-handoff and /collab-ask commands.",
   "author": {
     "name": "Collab Engine"
